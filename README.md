@@ -1,2 +1,2 @@
 # TensorFlow-in-Action
-Machine Learning with TensorFlow.
+Deep Learning in Action with TensorFlow.
